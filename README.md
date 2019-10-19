@@ -1,5 +1,6 @@
-# Springboard-Projects
-===
+**Springboard-Projects**
+---
+
 Springboard Mini and Capstone Projects
 
 
