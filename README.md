@@ -1,6 +1,6 @@
-**Springboard-Projects**
+**Springboard Projects**
 ===
-
-Springboard Mini and Capstone Projects
+---
+This repository contains the entire duenddddddd
 
 
