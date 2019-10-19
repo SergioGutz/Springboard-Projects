@@ -7,4 +7,4 @@ This repository contains the entire all the unit and capstone projects completed
 ## Projects
 
 - Machine Learning
-  + [Clustering](https://github.com/SergioGutz/Springboard-Projects/blob/master/Machine%20Learning%20Projects/Mini_Project_Clustering.ipynb): Customer Segmentation
+  + [Clustering Customer Segmentation](https://github.com/SergioGutz/Springboard-Projects/blob/master/Machine%20Learning%20Projects/Mini_Project_Clustering.ipynb)
