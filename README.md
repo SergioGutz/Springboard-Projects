@@ -1,8 +1,7 @@
-**Springboard Data Science Career Track**
+#Springboard Data Science Career Track#
 ===
 
-#Content
-
+Content
 ---
 
 This repository contains the entire all the data
