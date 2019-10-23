@@ -24,4 +24,4 @@ This repository contains the entire all the unit and capstone projects completed
 
 - Capstone Projects
   + [Telecom Customer Churn Prediction & Recommendation]
-  + [Time Series Apple Stock Forecasting with Python & R
+  + [Time Series Apple Stock Forecasting with Python & R]
