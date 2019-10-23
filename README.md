@@ -12,9 +12,9 @@ This repository contains the entire all the unit and capstone projects completed
   + [API Data Wrangling](https://github.com/SergioGutz/Springboard-Projects/blob/master/Data%20Wrangling%20Projects/api_data_wrangling_mini_project.ipynb)
   
 - Inferential Statistics
-  + [Exploratory Data Analysis on Human Body Temperature]
-  + [Exploratory Data Analysis on Racial Discrimination]
-  + [Exploratory Data Analysis on Hospital Readmissions]
+  + [Exploratory Data Analysis on Human Body Temperature](https://github.com/SergioGutz/Springboard-Projects/blob/master/Inferential%20Statistics%20Projects/sliderule_dsi_inferential_statistics_exercise_1.ipynb)
+  + [Exploratory Data Analysis on Racial Discrimination](https://github.com/SergioGutz/Springboard-Projects/blob/master/Inferential%20Statistics%20Projects/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
+  + [Exploratory Data Analysis on Hospital Readmissions](https://github.com/SergioGutz/Springboard-Projects/blob/master/Inferential%20Statistics%20Projects/sliderule_dsi_inferential_statistics_exercise_3.ipynb)
   
 - Machine Learning
   + [Linear Regression on Boston Housing Prices](https://github.com/SergioGutz/Springboard-Projects/blob/master/Machine%20Learning%20Projects/Mini_Project_Linear_Regression.ipynb)
