@@ -7,8 +7,8 @@ This repository contains the entire all the unit and capstone projects completed
 ## Projects
 
 - Data Wrangling
-  + [JSON Data Wrangling]
-  + [SQL Data Wrangling]
+  + [JSON Data Wrangling](https://github.com/SergioGutz/Springboard-Projects/blob/master/Data%20Wrangling%20Projects/sliderule_dsi_json_exercise.ipynb)
+  + [SQL Data Wrangling](https://github.com/SergioGutz/Springboard-Projects/blob/master/Data%20Wrangling%20Projects/1520094343_sql_project.sql)
   + [API Data Wrangling](https://github.com/SergioGutz/Springboard-Projects/blob/master/Data%20Wrangling%20Projects/api_data_wrangling_mini_project.ipynb)
   
 - Inferential Statistics
