@@ -18,6 +18,6 @@ This repository contains the entire all the unit and capstone projects completed
   
 - Machine Learning
   + [Linear Regression on Boston Housing Prices](https://github.com/SergioGutz/Springboard-Projects/blob/master/Machine%20Learning%20Projects/Mini_Project_Linear_Regression.ipynb)
-  + [Logistic Regression on Gender Height and Weight]
-  + [Naive Bayes for Text Classification of Movie Ratings and Reviews]
+  + [Logistic Regression on Gender Height and Weight](https://github.com/SergioGutz/Springboard-Projects/blob/master/Machine%20Learning%20Projects/Mini_Project_Logistic_Regression.ipynb)
+  + [Naive Bayes for Text Classification of Movie Ratings and Reviews](https://github.com/SergioGutz/Springboard-Projects/blob/master/Machine%20Learning%20Projects/Mini_Project_Naive_Bayes.ipynb)
   + [Clustering for Marketing Customer Segmentation](https://github.com/SergioGutz/Springboard-Projects/blob/master/Machine%20Learning%20Projects/Mini_Project_Clustering.ipynb)
