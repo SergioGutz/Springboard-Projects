@@ -23,5 +23,5 @@ This repository contains the entire all the unit and capstone projects completed
   + [Clustering for Marketing Customer Segmentation](https://github.com/SergioGutz/Springboard-Projects/blob/master/Machine%20Learning%20Projects/Mini_Project_Clustering.ipynb)
 
 - Capstone Projects
-  + [Telecom Customer Churn Prediction & Recommendation]
+  + [Telecom Customer Churn Prediction & Recommendation](https://github.com/SergioGutz/Springboard-Projects/tree/master/Capstone%20Project%201)
   + [Time Series Apple Stock Forecasting with Python & R]
