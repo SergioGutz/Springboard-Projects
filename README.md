@@ -2,7 +2,7 @@
 
 ## Content
 
-This repository contains the entire all the unit and capstone projects completed for the Springboard Data Science Career Track.
+This repository contains all unit and capstone projects completed for the Springboard Data Science Career Track.
 
 ## Projects
 
